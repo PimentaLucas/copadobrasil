@@ -1,0 +1,118 @@
+body {
+  background-image: url('./img/fundo.png');
+}
+
+.times{
+  position: absolute;
+  margin-top: 300px;
+}
+
+.times-esquerda{
+  margin-left: 120px;
+}
+
+.times-direita{
+  margin-left: 600px;
+}
+
+.container-time {
+	position: relative;
+	width: 337px;
+	height: 57px;
+  margin-top: 75px;
+}
+
+.celula-time {
+	position: absolute;
+}
+
+.confrontos{
+  position: absolute;
+  margin-top: 345px;
+  margin-left: 1045px;
+}
+
+.container-confronto{
+  position: absolute;
+}
+
+.celula-confronto-esquerda {
+  position: absolute;
+  margin-top: -60px;
+}
+
+.celula-confronto-direita {
+  position: absolute;
+  margin-top: -60px;
+  margin-left: 406px;
+}
+
+.background-celula  {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 0px;
+  background: #FDCB50;
+  height: 80px;
+  width: 380px;
+  position: absolute;
+  z-index: -1;
+}
+
+
+
+.background-celula-direita  {
+	
+	margin-left: 408px;
+  padding-top: 10px;
+  margin-top: -10px;
+}
+
+.background-celula-1 {
+  margin-top: 362px;
+  margin-left: 1031px;
+}
+
+.background-celula-3  {
+  margin-top: 492px;
+  margin-left: 1031px;
+}
+
+.background-celula-5  {
+  margin-top: 624px;
+  margin-left: 1031px;
+}
+
+.background-celula-7  {
+  margin-top: 756px;
+  margin-left: 1031px;
+}
+
+.background-celula-9  {
+  margin-top: 888px;
+  margin-left: 1031px;
+}
+
+.background-celula-2  {
+  margin-top: 360px;
+  margin-left: 1412px;
+}
+
+.background-celula-4  {
+  margin-top: 492px;
+  margin-left: 1412px;
+}
+
+.background-celula-6  {
+  margin-top: 624px;
+  margin-left: 1412px;
+}
+
+.background-celula-8  {
+  margin-top: 756px;
+  margin-left: 1412px;
+}
+
+.background-celula-10  {
+  margin-top: 888px;
+  margin-left: 1412px;
+}
